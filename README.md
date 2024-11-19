@@ -1,7 +1,7 @@
 # Financial Report Analysis - Power BI Dashboard
 
 ## Project Overview
-This Power BI project provides a detailed financial report analysis including **Cash Flow Statements**, **Balance Sheets**, and **Income Statements**. It allows users to explore financial performance metrics over time through interactive visuals, charts, and tables. The goal of this project is to showcase a comprehensive understanding of financial data visualization in Power BI.
+This Power BI project provides a detailed financial report analysis including **Income Statements**, **Balance Sheets** and **Cash Flow Statements**. It allows users to explore financial performance metrics over time through interactive visuals, charts, and tables. The goal of this project is to showcase a comprehensive understanding of financial data visualization in Power BI.
 
 ---
 
@@ -23,24 +23,25 @@ This Power BI project provides a detailed financial report analysis including **
 
 ## Key Features
 
-### Cash Flow Statement Dashboard
-- Breakdown of operational, investing, and financing activities.
-- Visual representation of cash inflows and outflows.
-- Year-over-year cash flow analysis.
-
-### Balance Sheet Dashboard
-- Detailed view of assets, liabilities, and equity.
-- Composition of total assets and liabilities.
-- Yearly comparisons of financial positions.
+### Home Page
+- Navigation overview linking to other dashboards.
+- Clean and professional user interface.
 
 ### Income Statement Dashboard
 - Revenue, cost of goods sold (COGS), and gross profit analysis.
 - Year-over-year performance with variance analysis.
 - Quarterly revenue breakdown by channel.
 
-### Home Page
-- Navigation overview linking to other dashboards.
-- Clean and professional user interface.
+### Balance Sheet Dashboard
+- Detailed view of assets, liabilities, and equity.
+- Composition of total assets and liabilities.
+- Yearly comparisons of financial positions.
+
+
+### Cash Flow Statement Dashboard
+- Breakdown of operational, investing, and financing activities.
+- Visual representation of cash inflows and outflows.
+- Year-over-year cash flow analysis.
 
 ---
 
@@ -53,16 +54,18 @@ This Power BI project provides a detailed financial report analysis including **
 
 ## Dataset Details
 The project uses financial datasets spanning several years, containing the following:
-- **Cash Flow**: Cash receipts, payments, and net cash flow data.
-- **Balance Sheet**: Current assets, liabilities, and equity information.
 - **Income Statement**: Revenue, expenses, and gross profit breakdown.
+- **Balance Sheet**: Current assets, liabilities, and equity information.
+- **Cash Flow**: Cash receipts, payments, and net cash flow data.
+
 
 ---
 
 ## Key Insights
-- **Cash Flow Trends**: Year-over-year cash flow trends highlight areas of operational efficiency.
-- **Balance Sheet Insights**: The composition and growth of assets and liabilities reveal financial stability.
 - **Income Statement Analysis**: Detailed insights into revenue streams and expense categories drive strategic decision-making.
+- **Balance Sheet Insights**: The composition and growth of assets and liabilities reveal financial stability.
+- **Cash Flow Trends**: Year-over-year cash flow trends highlight areas of operational efficiency.
+
 
 ---
 
